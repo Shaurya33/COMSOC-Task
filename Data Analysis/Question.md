@@ -6,15 +6,15 @@ Each row in the task datafile corresponds to a single observation.
 
 The following variables are provided to us:-
 
-id : station identification code
+id : station identification code, 
 
-date : date in YYYY-MM-DD format (e.g. 2012-01-24 = January 24, 2012)
+date : date in YYYY-MM-DD format (e.g. 2012-01-24 = January 24, 2012), 
 
-element : indicator of element type
+element : indicator of element type, 
 
-TMAX : Maximum temperature (tenths of degrees C)
+TMAX : Maximum temperature (tenths of degrees C), 
 
-TMIN : Minimum temperature (tenths of degrees C)
+TMIN : Minimum temperature (tenths of degrees C), 
 
 value : data value for element (tenths of degrees C)
 
