@@ -1,6 +1,5 @@
 An NOAA dataset has been stored in the file weather.csv.
-This is the dataset to use for this task. Note: The data for this assignment comes from a subset of The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily).
-The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
+This is the dataset I used for this task. The data for this task comes from The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily).
 
 Each row in the task datafile corresponds to a single observation.
 
@@ -18,7 +17,7 @@ TMIN : Minimum temperature (tenths of degrees C),
 
 value : data value for element (tenths of degrees C)
 
-For this assignment, we must:
+GOALS:-
 
 1. Read the documentation and familiarize yourself with the dataset, then write some python code which returns a line graph of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day should be shaded.
 
